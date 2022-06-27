@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/BasicSpring/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BasicSpring/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ConstructorInjection/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DiClassPathScanning/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DiClassPathScanning/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DiMostSimpleConfig/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DiXML/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringDiJavaConfig/src/main/java" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b75a78b-fcc4-4750-8959-d3fcd3419f40" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Atrxl3MJ7mNn4eleSGSiqBiL5f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Tesfamichael/IdeaProjects/ea/Lab2Part1",
+    "spring.configuration.checksum": "470e56b24d975e497d64fbf974cf1ea9"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Tesfamichael\IdeaProjects\ea\Lab2PartA\src\main\java\edu\miu\lab2parta\customers" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="edu.miu.lab2partb.dao" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.miu.lab2partb.Application" />
+      <module name="Lab2PartB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.miu.lab2partb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Lab2PartB" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="edu.miu.lab2partb.Application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.miu.lab2partb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab2PartAApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Lab2PartB" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="edu.miu.lab2parta.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+        <item itemvalue="Spring Boot.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b75a78b-fcc4-4750-8959-d3fcd3419f40" name="Changes" comment="" />
+      <created>1655839974813</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655839974813</updated>
+      <workItem from="1655839976211" duration="917000" />
+      <workItem from="1655841222408" duration="265000" />
+      <workItem from="1655844521889" duration="23000" />
+      <workItem from="1655844779136" duration="311000" />
+      <workItem from="1655857775695" duration="1167000" />
+      <workItem from="1655861153339" duration="4878000" />
+      <workItem from="1655867331752" duration="481000" />
+      <workItem from="1655868152482" duration="231000" />
+      <workItem from="1655870603999" duration="2601000" />
+      <workItem from="1655900675234" duration="1952000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

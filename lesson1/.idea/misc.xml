@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/BasicSpring/pom.xml" />
+        <option value="$PROJECT_DIR$/DiClassPathScanning/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringDiJavaConfig/pom.xml" />
+        <option value="$PROJECT_DIR$/DiMostSimpleConfig/pom.xml" />
+        <option value="$PROJECT_DIR$/DiMostSimpleConfig/DiXML/pom.xml" />
+        <option value="$PROJECT_DIR$/BasicSpring/ConstructorInjection/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="openjdk-18" project-jdk-type="JavaSDK" />
+</project>

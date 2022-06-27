@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SpringDiJavaConfig" />
+        <module name="ConstructorInjection" />
+        <module name="BasicSpring" />
+        <module name="Application" />
+        <module name="DiMostSimpleConfig" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Application" target="17" />
+      <module name="BasicSpring" target="17" />
+      <module name="ConstructorInjection" target="17" />
+      <module name="DiMostSimpleConfig" target="17" />
+      <module name="DiXML" target="17" />
+      <module name="SpringDiJavaConfig" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Application" options="-parameters" />
+      <module name="BasicSpring" options="-parameters" />
+      <module name="ConstructorInjection" options="-parameters" />
+      <module name="DiMostSimpleConfig" options="-parameters" />
+      <module name="DiXML" options="-parameters" />
+      <module name="SpringDiJavaConfig" options="-parameters" />
+    </option>
+  </component>
+</project>

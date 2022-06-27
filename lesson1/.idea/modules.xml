@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DiClassPathScanning/Application.iml" filepath="$PROJECT_DIR$/DiClassPathScanning/Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BasicSpring/BasicSpring.iml" filepath="$PROJECT_DIR$/BasicSpring/BasicSpring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BasicSpring/ConstructorInjection/ConstructorInjection.iml" filepath="$PROJECT_DIR$/BasicSpring/ConstructorInjection/ConstructorInjection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DiMostSimpleConfig/DiMostSimpleConfig.iml" filepath="$PROJECT_DIR$/DiMostSimpleConfig/DiMostSimpleConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab1PartA/Lab1PartE.iml" filepath="$PROJECT_DIR$/Lab1PartA/Lab1PartE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringDiJavaConfig/SpringDiJavaConfig.iml" filepath="$PROJECT_DIR$/SpringDiJavaConfig/SpringDiJavaConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/lesson1.iml" filepath="$PROJECT_DIR$/.idea/lesson1.iml" />
+    </modules>
+  </component>
+</project>
