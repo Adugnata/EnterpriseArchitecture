@@ -21,12 +21,16 @@ public class BankService {
 	
    @Transactional(propagation = Propagation.REQUIRED)
 	public void createCustomerAndAccount(int customerId, String customerName, String emailAddress, String AccountNumber){
-	   Account account = new Account(AccountNumber);
-	   accountRepository.saveAccount(account);
-	   Customer customer = new Customer(customerId, customerName);
-	   customer.setAccount(account);
-	   customerRepository.saveCustomer(customer);
-	   emailSender.sendEmail(emailAddress, "Welcome " + customerName);
+	  try {
+		  Account account = new Account(AccountNumber);
+		  accountRepository.saveAccount(account);
+		  Customer customer = new Customer(customerId, customerName);
+		  customer.setAccount(account);
+		  customerRepository.saveCustomer(customer);
+		  emailSender.sendEmail(emailAddress, "Welcome " + customerName);
+	  }catch (Exception e){
+		  //throw e;
+	  }
    }
 
 }

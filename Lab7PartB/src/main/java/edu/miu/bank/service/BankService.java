@@ -35,10 +35,10 @@ public class BankService {
 		  customer.setAccount(account);
 		  customerRepository.saveCustomer(customer);
 		  emailSender.sendEmail(emailAddress, "Welcome " + customerName);
-		  recordRepository.SaveTraceRecord(new TraceRecord(new Date(), "Customer "+customerName+" created with account "+ AccountNumber));
+		  //recordRepository.SaveTraceRecord(new TraceRecord(new Date(), "Customer "+customerName+" created with account "+ AccountNumber));
 
 	  }catch (Exception e){
-		  recordRepository.SaveTraceRecord(new TraceRecord(new Date(), "Could not create customer "+customerName+" with account "+ AccountNumber));
+		  //recordRepository.SaveTraceRecord(new TraceRecord(new Date(), "Could not create customer "+customerName+" with account "+ AccountNumber));
 		  emailSender.sendEmail(emailAddress, "We could not create your account  " + AccountNumber);
 		  throw e;
 	  }

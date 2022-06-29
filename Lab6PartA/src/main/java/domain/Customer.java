@@ -15,16 +15,6 @@ public class Customer {
     @GeneratedValue
     private long id;
 
-	@Override
-	public String toString() {
-		return "Customer{" +
-				"firstname='" + firstname + '\'' +
-				", lastname='" + lastname + '\'' +
-				", id=" + id +
-				", address=" + address +
-				'}';
-	}
-
 	@OneToMany (cascade={CascadeType.PERSIST}, fetch = FetchType.EAGER,mappedBy="customer")
     private Collection<Order> theOrders=new ArrayList<Order>();
 
@@ -73,6 +63,15 @@ public class Customer {
 	}
 	public void setAddress(Address address) {
 		this.address = address;
+	}
+	@Override
+	public String toString() {
+		return "Customer{" +
+				"firstname='" + firstname + '\'' +
+				", lastname='" + lastname + '\'' +
+				", id=" + id +
+				", address=" + address +
+				'}';
 	}
 
 }
